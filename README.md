@@ -16,7 +16,7 @@
   <img align="center" alt="marcelo-java" height="30" width="60" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Marcelo-php" height= "30" width="70" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="marcelo-postgresql" height= "30" width="100" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img align="center" alt="marcelo-mysql" height= "30" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+
   
 </div> 
 
